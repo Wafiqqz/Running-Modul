@@ -1,4 +1,4 @@
-public class halo {
+public git class halo {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
